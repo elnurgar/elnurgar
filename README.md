@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @elnurgar
 - 👀 I’m interested in Chemoinformatics, Programmation and Chemistry of Natural Products
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on LC-MS, GC-MS and NMR metabolomics
+- 📫 How to reach me elnur.garayev@univ-amu.fr
 
 <!---
 elnurgar/elnurgar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
